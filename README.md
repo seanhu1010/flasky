@@ -2,6 +2,8 @@
 commit list>>>
 TAG 1a: Example 2-1. hello.py: A complete Flask application
 
+TAG 2a: Example 2-2. hello.py: Flask application with a dynamic route
+
 
 Flasky
 ======
